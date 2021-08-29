@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libhfjson.a CMakeFiles/hfjson.dir/hfjson.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libhfjson.a
